@@ -52,5 +52,7 @@ const login: Login = 'admin';
 
 type ID = string | number;
 const id1: ID = 1234;
-const id2: ID = "Hello";
+const id2: ID = "HelloImId";
+
+type someType = string | null | undefined;
 
